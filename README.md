@@ -14,7 +14,7 @@ My personal style guide for writing GitHub commit messages. More specifially, th
 |:---|:----:|:---------------------------|:------------------------------------------------------------|
 |01  |✨🎁  |`update`, `feat`            |`✨: add docstrings and type hinting`                        |
 |02  |🛠️🐞  |`fix`, `bug`                |`🔨: fix broken control header (#4)`                         |
-|03  |🩹    |`patch`                     |`🩹: update token signing method for HTTP requests (#12)`    |
+|03  |🩹 🧷 |`patch`                     |`🩹: update token signing method for HTTP requests (#12)`    |
 |️️04  |🔀    |`merge`                     |`🔀: merge pull request from user/patch-1`                   |
 |05  |⬆️    |`bump`, `upgrade`           |`⬆️: bump highlight.js from 1.1.2 to 1.2.0`                  |
 |06  |🚨🔒  |`security`                  |`🔒: move exposed API key to .env file`                      |
