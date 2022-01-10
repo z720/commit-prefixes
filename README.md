@@ -2,7 +2,7 @@
 
 My personal style guide for writing GitHub commit messages. More specifially, the prefixes. Prefixes should be written in the following format:
 
-```html
+```
 <prefix>: <message> (<reference>)
 ```
 
@@ -20,3 +20,18 @@ My personal style guide for writing GitHub commit messages. More specifially, th
 |06  |🚨🔒  |`security`                  |`🔒: move exposed API key to .env file`                      |
 |07  |🏷️    |`label`, `tag`              |`🏷️: release v0.1.1`, `🏷️: v1.0.2`                           |
 |08  |📝    |`legal`, `docs`, `markdown` |`📝: add GNU GPL v3 license`, `📝: update contributing guide`|
+
+Git Commit Template:
+
+```
+<prefix>: <message> (<reference>)
+# ✨ update: <message> (<reference>)
+# 🎁 feat: <message> (<reference>)
+# 🛠️ fix: <message> (<reference>)
+# 🐞 bug: <message> (<reference>)
+# 🩹🧷 patch: <message>
+# 🔀 merge: <message>
+# 🚨🔒 security: 
+# 🏷️ tag 
+# 📝 doc: <message> (<reference>)
+```

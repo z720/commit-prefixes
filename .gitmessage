@@ -1,0 +1,14 @@
+# Commit Template
+<prefix>: <message> (<reference>)
+
+# ✨ update: <message> (<reference>)
+# 🎁 feat: <message> (<reference>)
+# 🛠️ fix: <message> (<reference>)
+# 🐞 bug: <message> (<reference>)
+# 🩹🧷 patch: <message>
+# 🔀 merge: <message>
+# 🚨🔒 security: 
+# 🏷️ tag 
+# 📝 doc: <message> (<reference>)
+
+# Long description
